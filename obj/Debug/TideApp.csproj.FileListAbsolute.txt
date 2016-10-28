@@ -1,0 +1,55 @@
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\TideApp.TideApp.apk
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\TideApp.TideApp-Signed.apk
+C:\_git\TideApp\TideApp\TideApp\obj\Debug\android\bin\TideApp.TideApp.apk
+C:\_git\TideApp\TideApp\TideApp\obj\Debug\res\layout\main.xml
+C:\_git\TideApp\TideApp\TideApp\obj\Debug\res\values\strings.xml
+C:\_git\TideApp\TideApp\TideApp\obj\Debug\res\drawable\icon.png
+C:\_git\TideApp\TideApp\TideApp\obj\Debug\R.cs.flag
+C:\_git\TideApp\TideApp\TideApp\obj\Debug\uploadflags.txt
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\HtmlAgilityPack.dll
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\HtmlAgilityPack.pdb
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\HtmlAgilityPack.dll.mdb
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\Tide App.dll
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\Tide App.pdb
+C:\_git\TideApp\TideApp\TideApp\obj\Debug\Tide App.dll
+C:\_git\TideApp\TideApp\TideApp\obj\Debug\Tide App.pdb
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\Tide App.dll.config
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\ICSharpCode.SharpZipLib.Portable.dll
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\Newtonsoft.Json.dll
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\Stateless.dll
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\ICSharpCode.SharpZipLib.Portable.pdb
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\ICSharpCode.SharpZipLib.Portable.xml
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\Newtonsoft.Json.xml
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\Stateless.xml
+C:\_git\TideApp\TideApp\TideApp\obj\Debug\res\drawable\monoandroidsplash.png
+C:\_git\TideApp\TideApp\TideApp\obj\Debug\res\values\styles.xml
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\ICSharpCode.SharpZipLib.Portable.dll.mdb
+C:\_git\TideApp\TideApp\TideApp\bin\Debug\Tide App.dll.mdb
+C:\_git\TideApp\TideApp\TideApp\obj\Debug\Tide App.dll.mdb
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\Tide App.dll.config
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\Tide App.dll
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\Tide App.pdb
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\TideApp.TideApp.apk
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\TideApp.TideApp-Signed.apk
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\HtmlAgilityPack.dll
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\ICSharpCode.SharpZipLib.Portable.dll
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\Newtonsoft.Json.dll
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\Stateless.dll
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\HtmlAgilityPack.pdb
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\HtmlAgilityPack.dll.mdb
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\ICSharpCode.SharpZipLib.Portable.pdb
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\ICSharpCode.SharpZipLib.Portable.xml
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\ICSharpCode.SharpZipLib.Portable.dll.mdb
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\Newtonsoft.Json.xml
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\Stateless.xml
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\Tide App.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\Tide App.pdb
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\bin\TideApp.TideApp.apk
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\res\layout\main.xml
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\res\values\strings.xml
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\res\drawable\icon.png
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\R.cs.flag
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\uploadflags.txt
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\TideApp.csprojResolveAssemblyReference.cache
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\Tide App.dll.mdb
+E:\_temp\TideApp\TideApp\TideApp\bin\Debug\Tide App.dll.mdb

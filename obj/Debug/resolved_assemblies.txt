@@ -1,0 +1,19 @@
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\Tide App.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\HtmlAgilityPack.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\Mono.Android.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\mscorlib.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\Newtonsoft.Json.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.Core.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.Net.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.Net.Http.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.Web.Services.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.Windows.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.Xml.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.Xml.Linq.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.Runtime.Serialization.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.ComponentModel.DataAnnotations.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.Numerics.dll
+E:\_temp\TideApp\TideApp\TideApp\obj\Debug\android\assets\System.ServiceModel.dll

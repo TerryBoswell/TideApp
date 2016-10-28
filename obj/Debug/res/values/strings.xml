@@ -1,0 +1,1 @@
+<resources><string name="ApplicationName">Tide App</string><string name="location_prompt">Location</string><string-array name="location_array"><item>Bowleys Bar</item><item>Rocky Point</item><item>Ocean City Fishing Pier</item><item>Ocean City Inlet</item></string-array></resources>

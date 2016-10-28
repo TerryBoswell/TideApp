@@ -1,0 +1,4 @@
+TideApp.MainActivity, Tide App;md533dec14ba92aab55102bd1d4b06783dc.MainActivity
+TideApp.MainActivity, Tide App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533dec14ba92aab55102bd1d4b06783dc.MainActivity
+TideApp.MainActivity;md533dec14ba92aab55102bd1d4b06783dc.MainActivity
+tideapp.MainActivity;md533dec14ba92aab55102bd1d4b06783dc.MainActivity
